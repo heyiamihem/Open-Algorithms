@@ -8,7 +8,7 @@ import java.util.Scanner;
  * @author Varun Vaibhav Jha
  *
  */
-public class varunvjha_PalindromeNumber {
+public class PalindromeNumber {
 
 	/**
 	 * @param args
