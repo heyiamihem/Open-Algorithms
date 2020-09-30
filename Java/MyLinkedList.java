@@ -1,3 +1,4 @@
+//This code is my own implementation of LinkedLists
 
 public class MyLinkedList<E> {
 	
